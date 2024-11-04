@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+FM88 - Nhà cái cá cược hàng đầu với đa dạng trò chơi hấp dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`FM88 <https://fm88.house/>`_ là một trong những nhà cái cá cược trực tuyến hàng đầu tại Việt Nam, được cộng đồng người chơi tin tưởng nhờ đa dạng sản phẩm và dịch vụ cá cược chất lượng. Tại FM88, người chơi có thể khám phá nhiều loại hình cá cược hấp dẫn như thể thao, casino trực tuyến và các trò chơi slot đặc sắc, mang đến trải nghiệm giải trí sống động và thú vị. Tham gia ngay qua link chính thức tại fm88.house để tận hưởng các ưu đãi hấp dẫn và khám phá thế giới cá cược đầy sôi động cùng FM88 - điểm đến lý tưởng cho tín đồ cá cược!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 7 Đường 5B, Bình Hưng Hoà B, Bình Tân, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0889323991. 
 
-Contents
---------
+Email: info@fm88.house. 
 
-.. toctree::
+Website: https://fm88.house/
 
-   usage
-   api
+#fm88 #fm_88 #nhacai_m88 #fm88com #linkfm88
